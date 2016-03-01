@@ -1,2 +1,2 @@
 
-include: [_config.yml, .gitignore]
+include: [_config.yml, .gitignore, .travis.yml ]
